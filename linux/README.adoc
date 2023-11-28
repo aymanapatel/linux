@@ -1,0 +1,103 @@
+= Linux
+Ayman Patel
+:toc:
+:icons: font
+
+
+== Init process
+
+
+=== Systemd (Why people hate it so much)
+
+== File Systems
+
+
+1. NTFS (Windows)
+2. BTRFS
+3. XFS
+4. ZFS
+5. EXT4
+
+
+== SELinux
+
+
+== Alpine (The guy who wants to be different)
+
+
+=== Busybox
+
+
+=== WTF is `musl`? And why everything breaks due to `glibc` depedency
+
+
+=== PCRE UNIX change
+
+
+
+== Display Protocols
+
+
+=== OG *X1* and the ecosystem
+
+=== New *Wayland* where nothing works
+
+== Distro wars
+
+
+=== Debian
+
+
+=== Ubuntu
+
+=== RHEL
+
+=== Fedora
+
+=== Void linux
+
+=== I use Arch, BTW
+
+=== Immutable Distros
+
+=== Nixos, FTW
+
+== Distro package manager
+
+
+=== apt (Debian)
+
+=== dnf (Fedora)
+
+=== rpm and yum (Legacy RHEL)
+
+
+=== pacman and AUR (Arch)
+
+== GUI package format
+
+=== AppImage
+
+=== Flatpak
+
+=== Snap
+
+== Desktop environment
+
+
+=== KDE
+
+=== Gnome
+
+
+=== XFCE
+
+=== LXDE
+
+=== LXQt
+
+== Cool Linux tools
+
+
+
+1. [Distrobox](https://github.com/89luca89/distrobox) : Run any Linux distro as a CLI

@@ -1,0 +1,6 @@
+= UNIX
+Ayman Patel
+:toc:
+:icons: font
+
+> I’d like to interject for a moment. What you are referring to as Linux, is in fact, GNU/Linux

@@ -1,0 +1,6 @@
+= BSD
+Ayman Patel
+:toc:
+:icons: font
+
+> The OS that wasn't mainstream but with all the great ideas
