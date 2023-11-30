@@ -1,0 +1,26 @@
+= Linux Pacakging Formats (Snap, Flatpak, AppImage)
+:toc:
+:toclevels: 1
+
+== Flatpak
+
+
+== Snap
+
+> Developed By Canonical
+
+
+
+== AppImage
+
+
+
+=== Prerequite
+
+> Your system should have (Filesystem in Userspace)[FUSE] setup in your Linux instance
+
+==== FUSE
+
+Filesystem in Userspace lets non-root users mount into filesystems.
+
+
